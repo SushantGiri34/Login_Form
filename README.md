@@ -13,6 +13,6 @@ This Full responsive form is perfect for beginners to understand frontend form h
 - Login page with email & password field
 - Basic client-side validations
 - Modern and clean UI design
-- Responsive layout (works on mobile too)
+- Responsive layout (works on mobile too and also each and every resolution devices)
 
 
